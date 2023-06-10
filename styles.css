@@ -1,0 +1,46 @@
+body{
+
+	background-color: #EF8354;
+}
+
+.game{
+width:460px;
+height: 500px;
+text-align: center;
+font-family: system-ui;
+color: white;
+margin: auto;
+font-weight: 800;
+
+font-size: 30px;
+}
+
+.title{
+background:#255C99;
+border-radius: 5px;
+padding: 5px 0;
+margin: 5px 0;
+
+}
+span{
+color: #FFA630;
+
+}
+
+
+.square{
+
+	width: 147px;
+	height: 147px;
+	background:#255C99;
+	float: left;
+	margin: 3px;
+	font-size: 100px;
+	border-radius: 5px;
+}
+
+.square:hover{
+background: #262626;
+cursor: pointer;
+
+}
